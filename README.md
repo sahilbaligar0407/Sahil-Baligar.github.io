@@ -1,26 +1,33 @@
 # Sahil Baligar - Personal Accomplishment Website
 
-A modern, responsive personal website showcasing Sahil Baligar's academic achievements, technical skills, professional experience, and community leadership. Built with pure HTML, CSS, and JavaScript for a fast, lightweight, and professional presentation.
+A modern, coding-styled personal website showcasing Sahil Baligar's academic achievements, technical skills, professional experience, and community leadership. Built with pure HTML, CSS, and JavaScript for a fast, lightweight, and professional presentation with a developer aesthetic.
 
 ## 🌟 Features
 
+### **Developer Aesthetic**
+- **Dark Theme**: Professional black and green color scheme inspired by terminal interfaces
+- **Monospace Typography**: JetBrains Mono font for code-like appearance
+- **Terminal Elements**: Green accents and terminal-style interactions
+- **Code Blocks**: Syntax-highlighted style elements throughout the interface
+
 ### **Modern Design**
-- **Gradient Background**: Beautiful purple-blue gradient that creates a professional and modern aesthetic
 - **Card-based Layout**: Clean, organized sections with hover effects and smooth animations
 - **Responsive Design**: Fully responsive across all devices (desktop, tablet, mobile)
-- **Professional Typography**: Uses Inter font family for excellent readability
+- **Professional Typography**: Uses Inter and JetBrains Mono font families for excellent readability
+- **Hover Effects**: Cards lift up and show enhanced shadows with green borders on hover
 
 ### **Interactive Elements**
-- **Hover Effects**: Cards lift up and show enhanced shadows on hover
+- **Terminal Commands**: Interactive terminal-style elements in header and footer
 - **Smooth Transitions**: All animations use CSS transitions for smooth, professional feel
 - **Icon Integration**: Font Awesome icons for visual appeal and better UX
-- **Skill Tags**: Interactive skill tags with hover scaling effects
+- **Skill Tags**: Interactive skill tags with hover scaling effects and code styling
 
 ### **Content Organization**
-- **Education Section**: Academic achievements with visual statistics
-- **Technical Skills**: Categorized skills with interactive tags
+- **College Education**: Primary focus on Purdue University achievements with visual statistics
 - **Professional Experience**: Detailed work history and internships
+- **Technical Skills**: Categorized skills with interactive tags
 - **Leadership & Activities**: Community service and extracurricular involvement
+- **High School**: Reduced focus, minimal information
 
 ## 🚀 Getting Started
 
@@ -51,11 +58,12 @@ subl .  # Sublime Text
 ## 🎨 Customization
 
 ### **Colors and Styling**
-The website uses a consistent color scheme defined in CSS variables:
-- **Primary Gradient**: `#667eea` to `#764ba2`
-- **Card Background**: White with subtle shadows
-- **Text Colors**: Various shades of gray for hierarchy
-- **Accent Colors**: Blue tones for highlights and links
+The website uses a consistent dark theme color scheme:
+- **Primary Background**: Deep black (`#0a0a0a`)
+- **Card Background**: Dark gray (`#1a1a1a`)
+- **Accent Color**: Bright green (`#00ff88`) - classic terminal green
+- **Text Colors**: White and light gray for hierarchy
+- **Borders**: Dark gray with green accents on hover
 
 ### **Content Updates**
 To modify the content:
@@ -93,12 +101,12 @@ The website automatically adapts to different screen sizes:
 - **CSS3**: Modern CSS features including Grid, Flexbox, and animations
 - **JavaScript**: Minimal JavaScript for enhanced interactivity
 - **Font Awesome**: Professional icon library
-- **Google Fonts**: Inter font family for typography
+- **Google Fonts**: Inter and JetBrains Mono font families for typography
 
 ### **CSS Features**
 - **CSS Grid**: Responsive layout system
 - **CSS Flexbox**: Flexible component layouts
-- **CSS Variables**: Consistent theming
+- **CSS Variables**: Consistent theming with dark color palette
 - **CSS Animations**: Smooth transitions and hover effects
 - **Media Queries**: Responsive breakpoints
 
@@ -110,23 +118,23 @@ The website automatically adapts to different screen sizes:
 
 ## 📊 Content Sections
 
-### **1. Education**
+### **1. College Education**
 - Purdue University (Class of 2027)
-- Collierville High School (Class of 2024)
-- Academic achievements and honors
-- Visual statistics display
+- Computer Science major with 3.0+ GPA
+- Dean's List and Semester Honors
+- Current focus on Data Structures, Algorithms, and ML
 
-### **2. Technical Skills**
+### **2. Professional Experience**
+- QA Intern at Sedgwick (RPA testing, UIPath, Playwright)
+- Data Mine at Purdue (John Deere ML project)
+- Software Engineer at Roar Labs Inc.
+- Governor's School for Technological Innovation
+
+### **3. Technical Skills**
 - Programming Languages (Java, Python, JavaScript, C, R)
 - Web Technologies (Django, NodeJS, Pug, GitHub)
 - AI/ML Tools (XGBoost, Random Forest, MATLAB)
 - Professional Certifications
-
-### **3. Professional Experience**
-- QA Intern at Sedgwick
-- Data Mine at Purdue (John Deere)
-- Software Engineer at Roar Labs Inc.
-- Governor's School for Technological Innovation
 
 ### **4. Leadership & Activities**
 - Technical Activities (ML at Purdue, competitions)
@@ -144,7 +152,7 @@ The website automatically adapts to different screen sizes:
 ## 📈 Future Enhancements
 
 Potential improvements for future versions:
-- **Dark Mode Toggle**: Add light/dark theme switching
+- **Light/Dark Mode Toggle**: Add theme switching capability
 - **Interactive Timeline**: Animated experience timeline
 - **Project Portfolio**: Dedicated projects showcase section
 - **Contact Form**: Interactive contact form with validation
@@ -172,7 +180,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙏 Acknowledgments
 
 - **Font Awesome** for the beautiful icons
-- **Google Fonts** for the Inter font family
+- **Google Fonts** for the Inter and JetBrains Mono font families
 - **CSS Grid** and **Flexbox** for modern layout capabilities
 - **GitHub Pages** for hosting the website
 
@@ -180,4 +188,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Built with ❤️ by Sahil Baligar**
 
-*Last updated: December 2024*
+*Last updated: August 2025*
